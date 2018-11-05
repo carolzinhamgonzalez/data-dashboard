@@ -4,8 +4,8 @@
 
 ## Objetivo
 Construir um MVP - Mínimo Produto Viável de um Dashboard onde as coordenadoras da Laboratória pudessem ver os dados das alunas com facilidade e rapidez.
-[Veja o resultado](https://carolzinhamgonzalez.github.io/data-dashboard/)
-*Os dados utilizados neste trabalho são fictícios*
+[Veja o resultado aqui.](https://carolzinhamgonzalez.github.io/data-dashboard/)
+*Os dados utilizados neste trabalho são fictícios.*
 
 ![MVP Dashboard](https://user-images.githubusercontent.com/26677793/47971850-c4f8b400-e07c-11e8-8369-fed10b6abe76.png)
 
