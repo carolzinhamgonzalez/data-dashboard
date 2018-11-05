@@ -26,3 +26,12 @@ Construir um MVP - Mínimo Produto Viável de um Dashboard onde as coordenadoras
   * O percentual de alunas satisfeitas com a experiência da Laboratoria.
   * A pontuação média das professoras.
   * A pontuação média das mestres Jedi.
+
+## Para Versão 0.0.2
+* Visualização de desempenho por sede
+* Visualisação de desempenho por aluna
+
+## Para Versão 0.0.3
+* Comparativos entre sedes
+* Comparativos entre alunas
+
